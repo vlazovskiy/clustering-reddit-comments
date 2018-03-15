@@ -1,6 +1,6 @@
 **Project**: Attempting to Partition Reddit Comments into a Small Number of Compact Clusters
 
-*Presentation* can be found [here](https://github.com/vlazovskiy/sf18_ds9/blob/master/student_submissions/projects/fletcher/lazovskiy_vladimir/Clustering%20Reddit%20Comments.pdf). 
+*Presentation* can be found [here](https://github.com/vlazovskiy/clustering-reddit-comments/blob/master/Clustering%20Reddit%20Comments.pdf). 
 
 *Data*: I used the data from https://files.pushshift.io/reddit/comments/, which contains Reddit comments from September 2016 to January 2018. There are over 91 million comments, and for my project pipeline I used samples of 100k and 1m in size. I also attempted to look only at the comments from r/gaming.
 
